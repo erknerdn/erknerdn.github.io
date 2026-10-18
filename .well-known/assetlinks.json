@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.erknerdn.hesapmerkezi",
+        "sha256_cert_fingerprints": ["63:65:B2:A1:12:AF:E8:E9:FC:96:95:F1:C0:9B:F3:C9:9F:E2:16:8A:DF:50:22:8A:09:4E:BC:C3:9F:97:D7:CB"]
+      }
+    }]
